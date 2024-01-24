@@ -21,7 +21,7 @@ body{
     position: relative;
 }
 #nav{
-    height: 140px;
+    height: 100px;
     width: 393px;
     border-bottom: 1px solid #dad;
     /* background-color: red; */
@@ -38,7 +38,7 @@ body{
     height: 90px;
     /* background-color: blue; */
     /* border: 2px solid black; */
-    margin: 20px 8px;
+    margin-left: 8px;
     border-radius: 50%;
     width: 90px;
     display: inline-block;
@@ -60,4 +60,11 @@ body{
     display: none;
     background-size: cover;
     background-position: center;
+}
+#logo{
+    margin-left: 30%;
+}
+.logo{
+    height: 40px;
+    width: 150px;
 }
